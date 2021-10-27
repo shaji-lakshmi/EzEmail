@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #0081a0;
+}
+
+.container{
+    margin-top:5%;
+}
+
+.row {
+    padding: 5%;
+    background-color: antiquewhite;
+}
+
+#logo{
+    width:45px;
+    height: 45px;
+}
+
+.btn-primary {
+    background-color: #0081a0;
+}
+a {
+    color: #0081a0;
+}

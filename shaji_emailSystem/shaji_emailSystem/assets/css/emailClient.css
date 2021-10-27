@@ -1,0 +1,138 @@
+﻿
+.sidenav {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #0081a0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    text-align: center;
+}
+
+    .sidenav a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 16px;
+        color: antiquewhite;
+        display: block;
+    }
+
+        .sidenav a:hover {
+            color: antiquewhite;
+        }
+
+.main {
+    margin-left: 20%; /* Same as the width of the sidenav */
+    
+}
+#bodylabelptag {
+    margin-bottom: 3rem;
+}
+
+table{
+    border-left:none;
+}
+
+td:nth-child(1) {
+    text-align: center;
+    width: 10%;
+    background-color: #0081a0;
+  
+    border-top-left-radius: 15px;
+}
+table a{
+    color:antiquewhite;
+}
+
+table a:hover{
+    color:antiquewhite;
+}
+
+#lblEmailBody {
+    padding: 5%;
+}
+
+strong {
+    padding: 5px;
+    color: #0081a0;
+}
+
+#imguserAvatar {
+    width: 75px;
+    height: 75px;
+}
+
+nav {
+    background-color: antiquewhite;
+}
+
+    nav a {
+        color: #0081a0;
+    }
+
+    table{
+        width:100%;
+    }
+
+
+#lblUserName{
+    color:antiquewhite;
+    font-weight:bold;
+}
+
+
+
+#btnSendEmail{
+    background-color:darkgreen;
+    border-color:darkgreen;
+}
+
+#btnCancelEmail, #btnDelete {
+    background-color: darkred;
+    border-color: darkred;
+}
+
+#btnWriteEmail{
+    background-color:darkorange;
+    border-color:darkorange;
+}
+
+
+#addNewFolder {
+    position: relative;
+    margin-top: -10%;
+}
+
+h2 {
+    color: #0081a0;
+    font-weight: bolder;
+}
+
+#emailDisplayHeading {
+    margin-left: 35px;
+    
+}
+    
+    #btnFlagEmail {
+        margin-top: 15px;
+        background-color:darkorange;
+    }
+
+#emailDisplayContent {
+    margin-top: 35px;
+    margin-left: 10%;
+}
+
+#profileDisplay {
+    position:relative; 
+    margin-top:-10%;
+}
+
+#composeEmail {
+    position: relative;
+    margin-left:15%;
+    margin-top: -20%;
+}

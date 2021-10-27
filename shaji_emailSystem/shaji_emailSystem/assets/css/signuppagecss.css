@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #0081a0;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+.btn-primary {
+    background-color: #0081a0;
+}
+
+#intialsysteminfo{
+    text-align:left;
+    padding:5%;
+    border-right:1px solid;
+    border-color: lightslategrey;
+}
+
+#personInformation {
+    text-align: left;
+    padding: 5%;
+}
+#signupform {
+    margin: 2%;
+}
+
+span{
+    padding:2%;
+}
